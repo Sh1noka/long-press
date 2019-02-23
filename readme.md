@@ -1,3 +1,7 @@
+# Shinoka Fork
+
+Map all keys that can generate a character to thrir <kbd>shift</kbd> holden counterparts on a US keyboard laptop.
+
 # Long Press
 
 <a href="url"><img src="https://raw.githubusercontent.com/davebrny/long-press/master/long%20press.ico"></a>
